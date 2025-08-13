@@ -1,0 +1,5 @@
+baseURL = "https://shuyi.github.io/" 
+publishDir = "public"  
+languageCode = "zh-cn"
+title = "shuyi的博客" 
+theme = "ananke"
