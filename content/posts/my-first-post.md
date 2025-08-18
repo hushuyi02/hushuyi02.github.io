@@ -1,7 +1,7 @@
 ---
 title: "胡胡的第一篇文章"
 date: 2025-08-13T23:30:00+08:00
-draft: true  # 发布时改为 false
+draft: false  # 发布时改为 false
 ---
 
 # 欢迎来到胡傻的博客！
