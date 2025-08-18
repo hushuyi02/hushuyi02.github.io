@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shuyi的博客</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on shuyi的博客</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 13 Aug 2025 23:30:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>胡胡的第一篇文章</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Wed, 13 Aug 2025 23:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;欢迎来到胡傻的博客&#34;&gt;欢迎来到胡傻的博客！&lt;/h1&gt;&#xA;&lt;p&gt;这是胡胡的第一篇文章，用 &lt;strong&gt;Markdown&lt;/strong&gt; 写的！Hugo 真棒！&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;胡姝昳爱耿宗杰&lt;/li&gt;&#xA;&lt;li&gt;胡姝昳爱耿宗杰&lt;/li&gt;&#xA;&lt;li&gt;嗯，胡姝昳是爱耿宗杰&lt;/li&gt;&#xA;&lt;li&gt;重要的事情说三遍。。。&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
